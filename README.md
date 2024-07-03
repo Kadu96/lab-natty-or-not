@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Cycle of Life - Uma Jornada Indie 🎵
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+"Cycle of Life" é uma música indie que explora temas de crescimento pessoal, mudança e os ciclos da vida através de uma abordagem musical moderna e introspectiva.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+<p><strong>Para o desenvolvimento do projeto, foram utilizadas as seguintes IAs:</strong></p>
+
+<ul>
+    <li><strong>Suno:</strong>
+        <p style="margin-left: 20px;">Suno é uma ferramenta de IA generativa que produz músicas, tanto com letra quanto instrumental. Usei o Suno para composição e arranjo musical baseados em inteligência artificial.</p>
+    </li>
+</ul>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação de "Cycle of Life" começou com a utilização da Suno IA para gerar ideias melódicas e estruturas musicais inovadoras. Em seguida, os elementos foram refinados e expandidos através de sessões criativas de composição, onde foram incorporados instrumentos virtuais e ajustes de produção para alcançar o ambiente sonoro desejado.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🚀 Resultado
+<ul>
+    <li><strong>Música Original:</strong>
+        <p style="margin-left: 20px;">Uma composição que combina elementos de indie rock e atmosferas envolventes.</p>
+    </li>
+    <li><strong>Recepção:</strong>
+        <p style="margin-left: 20px;">Recebida positivamente por sua abordagem fresca e emocional, conectando-se com temas universais de crescimento e transformação.</p>
+    </li>
+</ul>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+https://github.com/Kadu96/lab-natty-or-not/assets/17429669/c77a5978-4024-46c7-b8c2-ae7a71ca11fd
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar "Cycle of Life" foi um desafio fascinante e gratificante. Utilizar IA para explorar novas fronteiras na música indie permitiu uma expressão artística mais profunda e uma conexão emocional com os ouvintes. A integração de tecnologia avançada com sensibilidade artística trouxe à tona uma experiência auditiva que esperamos ressoe com a jornada pessoal de cada ouvinte.
